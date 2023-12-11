@@ -1,6 +1,6 @@
 'use client';
 
-import QuillEditor from '@/components/common/editor/QuillEditor';
+import ContentRegister from '@/components/domain/contents/register/ContentRegister';
 
 export default function HomePage() {
   return (
@@ -8,7 +8,7 @@ export default function HomePage() {
       <section>
         <h1>react-quill 에디터 테스트</h1>
         <br></br>
-        <QuillEditor />
+        <ContentRegister />
       </section>
     </main>
   );

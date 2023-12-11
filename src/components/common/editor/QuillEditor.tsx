@@ -1,6 +1,7 @@
 import dynamic from 'next/dynamic';
 import React, { useMemo, useRef, useState } from 'react';
 import ReactQuill from 'react-quill';
+import * as S from './styled';
 
 type ForwardedQuillComponent = {
   forwardedRef: React.Ref<ReactQuill>;
@@ -41,16 +42,7 @@ export default function QuillEditor() {
           ],
           [
             {
-              color: [
-                '#000000',
-                '#e60000',
-                '#ff9900',
-                '#ffff00',
-                '#008a00',
-                '#0066cc',
-                '#9933ff',
-                '#ffffff',
-              ],
+              color: [],
             },
             {
               background: [],
@@ -82,13 +74,15 @@ export default function QuillEditor() {
     'image',
   ];
   return (
-    <QuillWrapper
-      modules={modules}
-      formats={formats}
-      value={contents}
-      theme="snow"
-      forwardedRef={quillRef}
-      placeholder="내용을 입력해주세요."
-    />
+    <S.QuillWrapper>
+      <QuillWrapper
+        modules={modules}
+        formats={formats}
+        value={contents}
+        theme="snow"
+        forwardedRef={quillRef}
+        placeholder="내용을 입력해주세요."
+      />
+    </S.QuillWrapper>
   );
 }

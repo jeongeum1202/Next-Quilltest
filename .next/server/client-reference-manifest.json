@@ -742,66 +742,6 @@
         "async": false
       }
     },
-    "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
-      "*": {
-        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "suspense": {
-        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "suspense",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "NoSSR": {
-        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
-        "name": "NoSSR",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/page.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/page.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/page.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./src/lib/providers/AppProvider.tsx": {
       "*": {
         "id": "(sc_client)/./src/lib/providers/AppProvider.tsx",
@@ -876,6 +816,66 @@
         "name": "default",
         "chunks": [
           "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "*": {
+        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "suspense": {
+        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "suspense",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "NoSSR": {
+        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "NoSSR",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -2584,6 +2584,92 @@
       ],
       "async": false
     },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\react-quill-virtual-bb3527f928\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\react-quill-npm-2.0.0-f2d141fe1d-10c0.zip\\node_modules\\react-quill\\dist\\quill.snow.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\font\\local\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":[{\"path\":\"../../public/fonts/Pretendard-Regular.otf\",\"weight\":\"400\",\"style\":\"normal\"},{\"path\":\"../../public/fonts/Pretendard-Medium.otf\",\"weight\":\"500\",\"style\":\"normal\"},{\"path\":\"../../public/fonts/Pretendard-SemiBold.otf\",\"weight\":\"600\",\"style\":\"normal\"},{\"path\":\"../../public/fonts/Pretendard-Bold.otf\",\"weight\":\"700\",\"style\":\"normal\"}]}],\"variableName\":\"pretendard\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\AppProvider.tsx": {
+      "id": "(app-client)/./src/lib/providers/AppProvider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\AppProvider.tsx#": {
+      "id": "(app-client)/./src/lib/providers/AppProvider.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\AppProvider.tsx#default": {
+      "id": "(app-client)/./src/lib/providers/AppProvider.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\ReactQuery.tsx": {
+      "id": "(app-client)/./src/lib/providers/ReactQuery.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\ReactQuery.tsx#": {
+      "id": "(app-client)/./src/lib/providers/ReactQuery.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\ReactQuery.tsx#default": {
+      "id": "(app-client)/./src/lib/providers/ReactQuery.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\StyledRegistry.tsx": {
+      "id": "(app-client)/./src/lib/providers/StyledRegistry.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\StyledRegistry.tsx#": {
+      "id": "(app-client)/./src/lib/providers/StyledRegistry.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\StyledRegistry.tsx#default": {
+      "id": "(app-client)/./src/lib/providers/StyledRegistry.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
     "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js": {
       "id": "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
       "name": "*",
@@ -2669,92 +2755,6 @@
       "name": "default",
       "chunks": [
         "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\react-quill-virtual-bb3527f928\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\react-quill-npm-2.0.0-f2d141fe1d-10c0.zip\\node_modules\\react-quill\\dist\\quill.snow.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\font\\local\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"\",\"arguments\":[{\"src\":[{\"path\":\"../../public/fonts/Pretendard-Regular.otf\",\"weight\":\"400\",\"style\":\"normal\"},{\"path\":\"../../public/fonts/Pretendard-Medium.otf\",\"weight\":\"500\",\"style\":\"normal\"},{\"path\":\"../../public/fonts/Pretendard-SemiBold.otf\",\"weight\":\"600\",\"style\":\"normal\"},{\"path\":\"../../public/fonts/Pretendard-Bold.otf\",\"weight\":\"700\",\"style\":\"normal\"}]}],\"variableName\":\"pretendard\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\AppProvider.tsx": {
-      "id": "(app-client)/./src/lib/providers/AppProvider.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\AppProvider.tsx#": {
-      "id": "(app-client)/./src/lib/providers/AppProvider.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\AppProvider.tsx#default": {
-      "id": "(app-client)/./src/lib/providers/AppProvider.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\ReactQuery.tsx": {
-      "id": "(app-client)/./src/lib/providers/ReactQuery.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\ReactQuery.tsx#": {
-      "id": "(app-client)/./src/lib/providers/ReactQuery.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\ReactQuery.tsx#default": {
-      "id": "(app-client)/./src/lib/providers/ReactQuery.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\StyledRegistry.tsx": {
-      "id": "(app-client)/./src/lib/providers/StyledRegistry.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\StyledRegistry.tsx#": {
-      "id": "(app-client)/./src/lib/providers/StyledRegistry.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\developer\\GitHubRepo\\Next-Quilltest\\src\\lib\\providers\\StyledRegistry.tsx#default": {
-      "id": "(app-client)/./src/lib/providers/StyledRegistry.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     }
