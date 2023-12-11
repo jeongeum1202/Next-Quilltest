@@ -1,0 +1,37 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[4].use[1]!./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[4].use[2]!./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/font/local/target.css?{"path":"src\\app\\layout.tsx","import":"","arguments":[{"src":[{"path":"../../public/fonts/Pretendard-Regular.otf","weight":"400","style":"normal"},{"path":"../../public/fonts/Pretendard-Medium.otf","weight":"500","style":"normal"},{"path":"../../public/fonts/Pretendard-SemiBold.otf","weight":"600","style":"normal"},{"path":"../../public/fonts/Pretendard-Bold.otf","weight":"700","style":"normal"}]}],"variableName":"pretendard"} ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__pretendard_6d1208';
+src: url(/_next/static/media/6f4ca084fdb9712c-s.p.otf) format('opentype');
+font-display: swap;
+font-weight: 400;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__pretendard_6d1208';
+src: url(/_next/static/media/95684b27726ed527-s.p.otf) format('opentype');
+font-display: swap;
+font-weight: 500;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__pretendard_6d1208';
+src: url(/_next/static/media/078ed0971d9c8926-s.p.otf) format('opentype');
+font-display: swap;
+font-weight: 600;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__pretendard_6d1208';
+src: url(/_next/static/media/63f44d364a8f8955-s.p.otf) format('opentype');
+font-display: swap;
+font-weight: 700;
+font-style: normal;
+}@font-face {font-family: '__pretendard_Fallback_6d1208';src: local("Arial");ascent-override: 93.76%;descent-override: 23.75%;line-gap-override: 0.00%;size-adjust: 101.55%
+}.__className_6d1208 {font-family: '__pretendard_6d1208', '__pretendard_Fallback_6d1208'
+}
+

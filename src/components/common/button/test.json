@@ -1,0 +1,55 @@
+{
+  "event": {
+    "payload": {
+      "action": "commit",
+      "after": "30c7dafb85458998691677cd20f248511379738f",
+      "before": "625514e34e72fa3ebe7ba99cc3c8398f0a5939ca",
+      "commits": [
+        {
+          "author": { "author_name": "Hong.ut" },
+          "commit_message": "Test 52",
+          "committer": { "committer_name": "Hong.ut" },
+          "hash_id": "a79e29c7793a138298501fb8ae4768ca7a1f18ed",
+          "parent_hash_id": "625514e34e72fa3ebe7ba99cc3c8398f0a5939ca",
+          "timestamp": "1701256144",
+          "tree_id": "30c7dafb85458998691677cd20f248511379738f"
+        }
+      ],
+      "head_commit": [
+        {
+          "author": { "author_name": "Hong.ut" },
+          "commit_message": "Test 52",
+          "committer": { "committer_name": "Hong.ut" },
+          "hash_id": "a79e29c7793a138298501fb8ae4768ca7a1f18ed",
+          "parent_hash_id": "625514e34e72fa3ebe7ba99cc3c8398f0a5939ca",
+          "timestamp": "1701256144",
+          "tree_id": "30c7dafb85458998691677cd20f248511379738f"
+        }
+      ],
+      "ref": "refs/heads/develop",
+      "sender": {
+        "id_no": "21775f40-777e-11ee-9449-246e9659184c",
+        "protocol": "https",
+        "user_id": "hong.ut@altsoft.kr"
+      }
+    },
+    "type": "push"
+  },
+  "repository": {
+    "created_at": 1700812008000,
+    "description": "",
+    "https_url": "https://devtools.ncloud.com/2664483/ondaji-client.git",
+    "id": 625205,
+    "name": "ondaji-client",
+    "owner": "hong.ut@altsoft.kr",
+    "portaladdr": "https://devtools.ncloud.com/2664483/git/ondaji-client",
+    "ssh_url": "ssh://devtools.ncloud.com/2664483/ondaji-client.git"
+  },
+  "sender": {
+    "id_no": "21775f40-777e-11ee-9449-246e9659184c",
+    "mbrNo": "2664483",
+    "user_id": "hong.ut@altsoft.kr"
+  },
+  "timestamp": 1701256148062,
+  "version": "v1"
+}
