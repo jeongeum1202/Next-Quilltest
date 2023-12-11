@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import localFont from 'next/font/local';
 import { PropsWithChildren } from 'react';
+import 'react-quill/dist/quill.snow.css';
 
 import { AppProvider, StyledRegistry } from '@/lib/providers';
 

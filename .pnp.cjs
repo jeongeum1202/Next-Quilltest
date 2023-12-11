@@ -65,6 +65,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:18.2.0"],\
           ["react-hook-form", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:7.48.2"],\
+          ["react-quill", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.0.0"],\
           ["storybook", "npm:7.5.3"],\
           ["styled-components", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:6.1.1"],\
           ["typescript", "patch:typescript@npm%3A5.2.2#optional!builtin<compat/typescript>::version=5.2.2&hash=f3b441"],\
@@ -7066,6 +7067,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@types/quill", [\
+      ["npm:1.3.10", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/@types-quill-npm-1.3.10-4ddf84ba7e-10c0.zip/node_modules/@types/quill/",\
+        "packageDependencies": [\
+          ["@types/quill", "npm:1.3.10"],\
+          ["parchment", "npm:1.1.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@types/range-parser", [\
       ["npm:1.2.7", {\
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/@types-range-parser-npm-1.2.7-a83c0b6429-10c0.zip/node_modules/@types/range-parser/",\
@@ -9083,6 +9094,13 @@ const RAW_RUNTIME_STATE =
           ["clone", "npm:1.0.4"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:2.1.2", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/clone-npm-2.1.2-1d491c6629-10c0.zip/node_modules/clone/",\
+        "packageDependencies": [\
+          ["clone", "npm:2.1.2"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["clone-deep", [\
@@ -9691,6 +9709,19 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["deep-equal", [\
+      ["npm:1.1.2", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/deep-equal-npm-1.1.2-3af5068c14-10c0.zip/node_modules/deep-equal/",\
+        "packageDependencies": [\
+          ["deep-equal", "npm:1.1.2"],\
+          ["is-arguments", "npm:1.1.1"],\
+          ["is-date-object", "npm:1.0.5"],\
+          ["is-regex", "npm:1.1.4"],\
+          ["object-is", "npm:1.1.5"],\
+          ["object-keys", "npm:1.1.1"],\
+          ["regexp.prototype.flags", "npm:1.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["npm:2.2.3", {\
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/deep-equal-npm-2.2.3-86cbe803a7-10c0.zip/node_modules/deep-equal/",\
         "packageDependencies": [\
@@ -11196,6 +11227,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["eventemitter3", [\
+      ["npm:2.0.3", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/eventemitter3-npm-2.0.3-71d4ac3a65-10c0.zip/node_modules/eventemitter3/",\
+        "packageDependencies": [\
+          ["eventemitter3", "npm:2.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["events", [\
       ["npm:3.3.0", {\
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/events-npm-3.3.0-c280bc7e48-10c0.zip/node_modules/events/",\
@@ -11316,6 +11356,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["fast-diff", [\
+      ["npm:1.1.2", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/fast-diff-npm-1.1.2-907d4b29ef-10c0.zip/node_modules/fast-diff/",\
+        "packageDependencies": [\
+          ["fast-diff", "npm:1.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["npm:1.3.0", {\
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/fast-diff-npm-1.3.0-9f19e3b743-10c0.zip/node_modules/fast-diff/",\
         "packageDependencies": [\
@@ -14575,6 +14622,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:18.2.0"],\
           ["react-hook-form", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:7.48.2"],\
+          ["react-quill", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.0.0"],\
           ["storybook", "npm:7.5.3"],\
           ["styled-components", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:6.1.1"],\
           ["typescript", "patch:typescript@npm%3A5.2.2#optional!builtin<compat/typescript>::version=5.2.2&hash=f3b441"],\
@@ -14752,6 +14800,15 @@ const RAW_RUNTIME_STATE =
           ["param-case", "npm:3.0.4"],\
           ["dot-case", "npm:3.0.4"],\
           ["tslib", "npm:2.6.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["parchment", [\
+      ["npm:1.1.4", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/parchment-npm-1.1.4-a3bac35728-10c0.zip/node_modules/parchment/",\
+        "packageDependencies": [\
+          ["parchment", "npm:1.1.4"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -15486,6 +15543,33 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["quill", [\
+      ["npm:1.3.7", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/quill-npm-1.3.7-c79f7446fc-10c0.zip/node_modules/quill/",\
+        "packageDependencies": [\
+          ["quill", "npm:1.3.7"],\
+          ["clone", "npm:2.1.2"],\
+          ["deep-equal", "npm:1.1.2"],\
+          ["eventemitter3", "npm:2.0.3"],\
+          ["extend", "npm:3.0.2"],\
+          ["parchment", "npm:1.1.4"],\
+          ["quill-delta", "npm:3.6.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["quill-delta", [\
+      ["npm:3.6.3", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/quill-delta-npm-3.6.3-3ae240a64d-10c0.zip/node_modules/quill-delta/",\
+        "packageDependencies": [\
+          ["quill-delta", "npm:3.6.3"],\
+          ["deep-equal", "npm:1.1.2"],\
+          ["extend", "npm:3.0.2"],\
+          ["fast-diff", "npm:1.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["ramda", [\
       ["npm:0.29.0", {\
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/ramda-npm-0.29.0-ec4babb485-10c0.zip/node_modules/ramda/",\
@@ -15754,6 +15838,35 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/react-is-npm-18.1.0-6642a99f70-10c0.zip/node_modules/react-is/",\
         "packageDependencies": [\
           ["react-is", "npm:18.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["react-quill", [\
+      ["npm:2.0.0", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/react-quill-npm-2.0.0-f2d141fe1d-10c0.zip/node_modules/react-quill/",\
+        "packageDependencies": [\
+          ["react-quill", "npm:2.0.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.0.0", {\
+        "packageLocation": "./.yarn/__virtual__/react-quill-virtual-bb3527f928/4/Users/anje/AppData/Local/Yarn/Berry/cache/react-quill-npm-2.0.0-f2d141fe1d-10c0.zip/node_modules/react-quill/",\
+        "packageDependencies": [\
+          ["react-quill", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.0.0"],\
+          ["@types/quill", "npm:1.3.10"],\
+          ["@types/react", "npm:18.2.37"],\
+          ["@types/react-dom", "npm:18.2.15"],\
+          ["lodash", "npm:4.17.21"],\
+          ["quill", "npm:1.3.7"],\
+          ["react", "npm:18.2.0"],\
+          ["react-dom", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:18.2.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
         ],\
         "linkType": "HARD"\
       }]\
