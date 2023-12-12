@@ -820,6 +820,40 @@
         "async": false
       }
     },
+    "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "*": {
+        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "suspense": {
+        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "suspense",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "NoSSR": {
+        "id": "(sc_client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "NoSSR",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/app/page.tsx": {
       "*": {
         "id": "(sc_client)/./src/app/page.tsx",
@@ -2633,6 +2667,70 @@
       "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js": {
+      "id": "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js": {
+      "id": "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#": {
+      "id": "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#": {
+      "id": "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#suspense": {
+      "id": "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "suspense",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#suspense": {
+      "id": "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "suspense",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#NoSSR": {
+      "id": "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "NoSSR",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "C:\\developer\\GitHubRepo\\Next-Quilltest\\.yarn\\__virtual__\\next-virtual-81ed5b6559\\4\\Users\\anje\\AppData\\Local\\Yarn\\Berry\\cache\\next-npm-13.4.2-c0b22f239f-10c0.zip\\node_modules\\next\\dist\\esm\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js#NoSSR": {
+      "id": "(app-client)/./.yarn/__virtual__/next-virtual-81ed5b6559/4/Users/anje/AppData/Local/Yarn/Berry/cache/next-npm-13.4.2-c0b22f239f-10c0.zip/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "NoSSR",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
