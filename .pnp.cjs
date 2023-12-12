@@ -41,6 +41,7 @@ const RAW_RUNTIME_STATE =
           ["@types/lodash-es", "npm:4.17.11"],\
           ["@types/node", "npm:20.9.0"],\
           ["@types/react", "npm:18.2.37"],\
+          ["@types/react-color", "npm:2.17.10"],\
           ["@types/react-dom", "npm:18.2.15"],\
           ["@types/styled-components", "npm:5.1.30"],\
           ["@types/uuid", "npm:9.0.7"],\
@@ -63,6 +64,7 @@ const RAW_RUNTIME_STATE =
           ["next", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:13.4.2"],\
           ["prettier", "npm:2.8.8"],\
           ["react", "npm:18.2.0"],\
+          ["react-color", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.19.3"],\
           ["react-dom", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:18.2.0"],\
           ["react-hook-form", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:7.48.2"],\
           ["react-quill", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.0.0"],\
@@ -3460,6 +3462,28 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/@humanwhocodes-object-schema-npm-2.0.1-c23364bbfc-10c0.zip/node_modules/@humanwhocodes/object-schema/",\
         "packageDependencies": [\
           ["@humanwhocodes/object-schema", "npm:2.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@icons/material", [\
+      ["npm:0.2.4", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/@icons-material-npm-0.2.4-7c2363ec33-10c0.zip/node_modules/@icons/material/",\
+        "packageDependencies": [\
+          ["@icons/material", "npm:0.2.4"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:15350137868bd8e26784d18bfbd879a7c96551f089b2315f315069d9efc60f437b5e0fc2823113e506b5df2f59f2a164b09a91703f23cf0df4cca7c42ecf4dfb#npm:0.2.4", {\
+        "packageLocation": "./.yarn/__virtual__/@icons-material-virtual-3e0bc79d67/4/Users/anje/AppData/Local/Yarn/Berry/cache/@icons-material-npm-0.2.4-7c2363ec33-10c0.zip/node_modules/@icons/material/",\
+        "packageDependencies": [\
+          ["@icons/material", "virtual:15350137868bd8e26784d18bfbd879a7c96551f089b2315f315069d9efc60f437b5e0fc2823113e506b5df2f59f2a164b09a91703f23cf0df4cca7c42ecf4dfb#npm:0.2.4"],\
+          ["@types/react", "npm:18.2.37"],\
+          ["react", "npm:18.2.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/react",\
+          "react"\
         ],\
         "linkType": "HARD"\
       }]\
@@ -7098,11 +7122,32 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@types/react-color", [\
+      ["npm:2.17.10", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/@types-react-color-npm-2.17.10-30319b3a07-10c0.zip/node_modules/@types/react-color/",\
+        "packageDependencies": [\
+          ["@types/react-color", "npm:2.17.10"],\
+          ["@types/react", "npm:18.2.37"],\
+          ["@types/reactcss", "npm:1.2.11"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@types/react-dom", [\
       ["npm:18.2.15", {\
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/@types-react-dom-npm-18.2.15-2269cd02ff-10c0.zip/node_modules/@types/react-dom/",\
         "packageDependencies": [\
           ["@types/react-dom", "npm:18.2.15"],\
+          ["@types/react", "npm:18.2.37"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@types/reactcss", [\
+      ["npm:1.2.11", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/@types-reactcss-npm-1.2.11-101c2a2962-10c0.zip/node_modules/@types/reactcss/",\
+        "packageDependencies": [\
+          ["@types/reactcss", "npm:1.2.11"],\
           ["@types/react", "npm:18.2.37"]\
         ],\
         "linkType": "HARD"\
@@ -13742,6 +13787,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["material-colors", [\
+      ["npm:1.2.6", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/material-colors-npm-1.2.6-38f7e3d1c1-10c0.zip/node_modules/material-colors/",\
+        "packageDependencies": [\
+          ["material-colors", "npm:1.2.6"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["md5.js", [\
       ["npm:1.3.5", {\
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/md5.js-npm-1.3.5-130901125a-10c0.zip/node_modules/md5.js/",\
@@ -14598,6 +14652,7 @@ const RAW_RUNTIME_STATE =
           ["@types/lodash-es", "npm:4.17.11"],\
           ["@types/node", "npm:20.9.0"],\
           ["@types/react", "npm:18.2.37"],\
+          ["@types/react-color", "npm:2.17.10"],\
           ["@types/react-dom", "npm:18.2.15"],\
           ["@types/styled-components", "npm:5.1.30"],\
           ["@types/uuid", "npm:9.0.7"],\
@@ -14620,6 +14675,7 @@ const RAW_RUNTIME_STATE =
           ["next", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:13.4.2"],\
           ["prettier", "npm:2.8.8"],\
           ["react", "npm:18.2.0"],\
+          ["react-color", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.19.3"],\
           ["react-dom", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:18.2.0"],\
           ["react-hook-form", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:7.48.2"],\
           ["react-quill", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.0.0"],\
@@ -15632,6 +15688,35 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["react-color", [\
+      ["npm:2.19.3", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/react-color-npm-2.19.3-d63f96d772-10c0.zip/node_modules/react-color/",\
+        "packageDependencies": [\
+          ["react-color", "npm:2.19.3"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.19.3", {\
+        "packageLocation": "./.yarn/__virtual__/react-color-virtual-1535013786/4/Users/anje/AppData/Local/Yarn/Berry/cache/react-color-npm-2.19.3-d63f96d772-10c0.zip/node_modules/react-color/",\
+        "packageDependencies": [\
+          ["react-color", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.19.3"],\
+          ["@icons/material", "virtual:15350137868bd8e26784d18bfbd879a7c96551f089b2315f315069d9efc60f437b5e0fc2823113e506b5df2f59f2a164b09a91703f23cf0df4cca7c42ecf4dfb#npm:0.2.4"],\
+          ["@types/react", "npm:18.2.37"],\
+          ["lodash", "npm:4.17.21"],\
+          ["lodash-es", "npm:4.17.21"],\
+          ["material-colors", "npm:1.2.6"],\
+          ["prop-types", "npm:15.8.1"],\
+          ["react", "npm:18.2.0"],\
+          ["reactcss", "virtual:15350137868bd8e26784d18bfbd879a7c96551f089b2315f315069d9efc60f437b5e0fc2823113e506b5df2f59f2a164b09a91703f23cf0df4cca7c42ecf4dfb#npm:1.2.3"],\
+          ["tinycolor2", "npm:1.6.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/react",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["react-colorful", [\
       ["npm:5.6.1", {\
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/react-colorful-npm-5.6.1-ba0c706357-10c0.zip/node_modules/react-colorful/",\
@@ -15948,6 +16033,29 @@ const RAW_RUNTIME_STATE =
           ["invariant", "npm:2.2.4"],\
           ["react", "npm:18.2.0"],\
           ["tslib", "npm:2.6.2"]\
+        ],\
+        "packagePeers": [\
+          "@types/react",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["reactcss", [\
+      ["npm:1.2.3", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/reactcss-npm-1.2.3-16f7947bcd-10c0.zip/node_modules/reactcss/",\
+        "packageDependencies": [\
+          ["reactcss", "npm:1.2.3"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:15350137868bd8e26784d18bfbd879a7c96551f089b2315f315069d9efc60f437b5e0fc2823113e506b5df2f59f2a164b09a91703f23cf0df4cca7c42ecf4dfb#npm:1.2.3", {\
+        "packageLocation": "./.yarn/__virtual__/reactcss-virtual-903b38603c/4/Users/anje/AppData/Local/Yarn/Berry/cache/reactcss-npm-1.2.3-16f7947bcd-10c0.zip/node_modules/reactcss/",\
+        "packageDependencies": [\
+          ["reactcss", "virtual:15350137868bd8e26784d18bfbd879a7c96551f089b2315f315069d9efc60f437b5e0fc2823113e506b5df2f59f2a164b09a91703f23cf0df4cca7c42ecf4dfb#npm:1.2.3"],\
+          ["@types/react", "npm:18.2.37"],\
+          ["lodash", "npm:4.17.21"],\
+          ["react", "npm:18.2.0"]\
         ],\
         "packagePeers": [\
           "@types/react",\
@@ -17534,6 +17642,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/tiny-invariant-npm-1.3.1-a8ca214e49-10c0.zip/node_modules/tiny-invariant/",\
         "packageDependencies": [\
           ["tiny-invariant", "npm:1.3.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["tinycolor2", [\
+      ["npm:1.6.0", {\
+        "packageLocation": "../../../Users/anje/AppData/Local/Yarn/Berry/cache/tinycolor2-npm-1.6.0-8df41252c6-10c0.zip/node_modules/tinycolor2/",\
+        "packageDependencies": [\
+          ["tinycolor2", "npm:1.6.0"]\
         ],\
         "linkType": "HARD"\
       }]\
