@@ -65,6 +65,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:2.8.8"],\
           ["react", "npm:18.2.0"],\
           ["react-color", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.19.3"],\
+          ["react-colorful", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:5.6.1"],\
           ["react-dom", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:18.2.0"],\
           ["react-hook-form", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:7.48.2"],\
           ["react-quill", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.0.0"],\
@@ -5208,7 +5209,7 @@ const RAW_RUNTIME_STATE =
           ["memoizerific", "npm:1.11.3"],\
           ["polished", "npm:4.2.2"],\
           ["react", "npm:18.2.0"],\
-          ["react-colorful", "virtual:78129a04a3ec5c5f30c1bd5175af39a2adac2385b3f3f50cc8cad224fcb75b07b695bd6f50b52b55e62413c7434e9982cea961b2f9fd72b2a86f9b12eb1ccbd1#npm:5.6.1"],\
+          ["react-colorful", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:5.6.1"],\
           ["react-dom", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:18.2.0"],\
           ["telejson", "npm:7.2.0"],\
           ["tocbot", "npm:4.23.0"],\
@@ -14676,6 +14677,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:2.8.8"],\
           ["react", "npm:18.2.0"],\
           ["react-color", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.19.3"],\
+          ["react-colorful", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:5.6.1"],\
           ["react-dom", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:18.2.0"],\
           ["react-hook-form", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:7.48.2"],\
           ["react-quill", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.0.0"],\
@@ -15725,10 +15727,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:78129a04a3ec5c5f30c1bd5175af39a2adac2385b3f3f50cc8cad224fcb75b07b695bd6f50b52b55e62413c7434e9982cea961b2f9fd72b2a86f9b12eb1ccbd1#npm:5.6.1", {\
-        "packageLocation": "./.yarn/__virtual__/react-colorful-virtual-715bf33853/4/Users/anje/AppData/Local/Yarn/Berry/cache/react-colorful-npm-5.6.1-ba0c706357-10c0.zip/node_modules/react-colorful/",\
+      ["virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:5.6.1", {\
+        "packageLocation": "./.yarn/__virtual__/react-colorful-virtual-862fe812c9/4/Users/anje/AppData/Local/Yarn/Berry/cache/react-colorful-npm-5.6.1-ba0c706357-10c0.zip/node_modules/react-colorful/",\
         "packageDependencies": [\
-          ["react-colorful", "virtual:78129a04a3ec5c5f30c1bd5175af39a2adac2385b3f3f50cc8cad224fcb75b07b695bd6f50b52b55e62413c7434e9982cea961b2f9fd72b2a86f9b12eb1ccbd1#npm:5.6.1"],\
+          ["react-colorful", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:5.6.1"],\
           ["@types/react", "npm:18.2.37"],\
           ["@types/react-dom", "npm:18.2.15"],\
           ["react", "npm:18.2.0"],\

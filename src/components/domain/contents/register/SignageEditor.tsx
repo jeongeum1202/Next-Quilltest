@@ -1,6 +1,6 @@
 import dynamic from 'next/dynamic';
 import React, { useCallback, useEffect, useState } from 'react';
-// import { ChromePicker, SketchPicker } from 'react-color';
+import { HexColorInput, HexColorPicker } from 'react-colorful';
 
 type Props = {};
 
@@ -37,18 +37,7 @@ export default function SignageEditor({}: Props) {
   return (
     <div>
       <h2>컬러 팔레트 테스트 (react-color)</h2>
-      <div>
-        {/* <SketchPicker
-          color={color}
-          onChange={(color) => handleChangeComplete(color.hex)}
-          presetColors={[]}
-          width="200px"
-        /> 
-        <ChromePicker
-          color={color}
-          onChange={(color) => handleChangeComplete(color.hex)}
-          width="200px"
-        /> */}
+      <div style={{ display: 'flex', gap: '15px', margin: '15px' }}>
         <DynamicChromePicker
           color={color}
           onChange={(color) => handleChangeComplete(color.hex)}
@@ -61,7 +50,10 @@ export default function SignageEditor({}: Props) {
           width="200px"
         />
       </div>
-
+      <div style={{ margin: '25px' }}>
+        <HexColorPicker color={color} onChange={setColor} />
+        <HexColorInput color={color} onChange={setColor} />
+      </div>
       <div
         style={{
           backgroundColor: `${color}`,
