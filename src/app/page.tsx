@@ -9,7 +9,8 @@ export default function HomePage() {
       <section>
         <h1>react-quill 에디터 테스트</h1>
         <br></br>
-        <SignageEditor />
+        {/* <SignageEditor /> */}
+        <ContentRegister />
       </section>
     </main>
   );

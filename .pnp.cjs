@@ -40,6 +40,7 @@ const RAW_RUNTIME_STATE =
           ["@tanstack/react-query-devtools", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:5.8.3"],\
           ["@types/lodash-es", "npm:4.17.11"],\
           ["@types/node", "npm:20.9.0"],\
+          ["@types/quill", "npm:1.3.10"],\
           ["@types/react", "npm:18.2.37"],\
           ["@types/react-color", "npm:2.17.10"],\
           ["@types/react-dom", "npm:18.2.15"],\
@@ -63,6 +64,7 @@ const RAW_RUNTIME_STATE =
           ["lodash-es", "npm:4.17.21"],\
           ["next", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:13.4.2"],\
           ["prettier", "npm:2.8.8"],\
+          ["quill", "npm:1.3.7"],\
           ["react", "npm:18.2.0"],\
           ["react-color", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.19.3"],\
           ["react-colorful", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:5.6.1"],\
@@ -14652,6 +14654,7 @@ const RAW_RUNTIME_STATE =
           ["@tanstack/react-query-devtools", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:5.8.3"],\
           ["@types/lodash-es", "npm:4.17.11"],\
           ["@types/node", "npm:20.9.0"],\
+          ["@types/quill", "npm:1.3.10"],\
           ["@types/react", "npm:18.2.37"],\
           ["@types/react-color", "npm:2.17.10"],\
           ["@types/react-dom", "npm:18.2.15"],\
@@ -14675,6 +14678,7 @@ const RAW_RUNTIME_STATE =
           ["lodash-es", "npm:4.17.21"],\
           ["next", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:13.4.2"],\
           ["prettier", "npm:2.8.8"],\
+          ["quill", "npm:1.3.7"],\
           ["react", "npm:18.2.0"],\
           ["react-color", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:2.19.3"],\
           ["react-colorful", "virtual:fe335242b64ab925274fe23068062a0e9ffa0e580c99731d1528d49ac2b14ff0bc4d95323546393e4ecd68b04b13d7ffcfb1385e8e4550b7e1b64892e058c658#npm:5.6.1"],\

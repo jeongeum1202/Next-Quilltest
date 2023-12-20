@@ -2,31 +2,39 @@ import styled, { css } from 'styled-components';
 
 export const QuillWrapper = styled.div`
   ${({ theme }) => css`
-    .quill {
-      width: 345px;
-      height: 155px;
-    }
+    margin-bottom: 20px;
 
-    .ql-toolbar {
+    #toolbar {
+      display: flex;
+      flex-wrap: wrap;
+
       border: 1px solid #eee;
       border-radius: 5px 5px 0 0;
 
-      & > .ql-formats {
-        margin-right: 5px;
+      .ql-formats {
+        font-size: 10px;
 
-        & > button {
+        button {
           width: 20px;
           height: 20px;
         }
       }
+
+      .ql-dropdown > span {
+        width: 90px;
+      }
+    }
+    .quill {
+      width: 345px;
     }
 
     .ql-container {
+      height: 330px;
       border: 1px solid #eee;
       border-radius: 0 0 5px 5px;
-      font-size: 11px;
 
       & > .ql-editor {
+        height: 320px;
         &::-webkit-scrollbar {
           width: 4px;
         }
