@@ -24,50 +24,6 @@ const QuillWrapper = dynamic(
   { ssr: false, loading: () => <div>loading...</div> }
 );
 
-// const CustomToolbar = () => {
-//   return (
-//     <div id="toolbar">
-//       <select className="ql-font" />
-
-//       <select className="ql-size" defaultValue="normal">
-//         <option value="small">본문 1</option>
-//         <option value="normal">본문 2</option>
-//         <option value="large">본문 3</option>
-//         <option value="huge">본문 4</option>
-//       </select>
-
-//       <select className="ql-header">
-//         <option value="1">제목 1</option>
-//         <option value="2">제목 2</option>
-//         <option value="3">제목 3</option>
-//         <option value="4">제목 4</option>
-//       </select>
-
-//       <select className="ql-align" defaultValue="">
-//         <option value="" />
-//         <option value="center" />
-//         <option value="right" />
-//         <option value="justify" />
-//       </select>
-
-//       <button className="ql-bold" />
-//       <button className="ql-italic" />
-//       <button className="ql-underline" />
-//       <button className="ql-strike" />
-//       <button className="ql-blockquote" />
-
-//       <button className="ql-list" value="ordered" />
-//       <button className="ql-list" value="bullet" />
-
-//       <select className="ql-color" />
-//       <select className="ql-background" />
-
-//       <button className="ql-link" />
-//       <button className="ql-image" />
-//     </div>
-//   );
-// };
-
 export default function CustomQuillEditor() {
   const [contents, setContents] = useState('');
   const quillRef = useRef<ReactQuill>(null);
