@@ -4,6 +4,7 @@ import QuillEditor from '@/components/common/editor/QuillEditor';
 import React from 'react';
 import * as S from './styled';
 import TextArea from '@/components/common/textarea/TextArea';
+import CustomQuillEditor from '@/components/common/editor/CustomQuillEditor';
 type Props = {};
 
 export default function ContentRegister({}: Props) {
@@ -18,7 +19,8 @@ export default function ContentRegister({}: Props) {
         </p>
       </div>
       <TextArea />
-      <QuillEditor />
+      {/* <QuillEditor /> */}
+      <CustomQuillEditor />
     </S.ContentWrapper>
   );
 }
